@@ -4,6 +4,7 @@ index.ts
 package-lock.json
 tslint.json
 .prettierrc
+tsconfig.json
 
 # misc
 .DS_Store
